@@ -1,0 +1,42 @@
+Ph?n A
+Câu 1: L?i so sánh 
+S?a: bool isA (( 90 <= grade) && (grade <= 100))
+Câu 2: 
+Double x = (double) (3/5);
+Cout << x;
+Ðo?n code trên cho ra k?t qu? x = 0;
+Câu 3:
+Int x = 65536;
+Long y = x*x;
+Cout << y;
+Ðo?n code trên không in ra 4294967296 vì b? tràn s?
+Câu 4:
+Vì hai s? x?p x? nhân nhau chua ch?c b?ng s? ban d?u 
+Câu 5:
+X?y ra l?i 
+Câu 6 :
+N?u khai báo double x ngoài hàm main thì không x?y ra l?i vì dó là bi?n toàn c?c 
+Câu 7 :
+       int threeInt = 3;
+	int fourInt  = 4;
+	double threeDouble = 3.0;
+	double fourDouble  = 4.0;
+	cout << threeInt / fourInt << endl;
+	cout << threeInt / fourDouble << endl;
+	cout << threeDouble / fourInt << endl;
+	cout << threeDouble / fourDouble << endl;
+
+
+Output:
+0 , 0.75, 0.75, 0.75
+Câu 8:
+- B? l?i 
+- L?i bi?n myDouble và arg1 vì bi?n ki?u char ch? 1 kí t? 
+Câu 9 :
+Arg1 = A
+Câu 10 :
+Arg1 = -1
+Câu 11:
+K?t qu? = 0;
+Câu 12:
+K?t qu? Here
